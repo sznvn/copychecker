@@ -11,8 +11,8 @@ import redis
 
 r = redis.Redis('localhost')
 
-def getdata():
-    a = 0
+def getdata(hash):
+    return r.get(hash)
 
 def setdata():
     a = 0
