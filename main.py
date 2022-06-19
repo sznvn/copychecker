@@ -47,6 +47,7 @@ for i in range(len(copy)):
     p = places.index(copy[i])
     arr.append(p)
 print(arr)
+
 #     # print(p)
 #     # print(p - 1, '---', last)
 #     if p - 1 == last:
@@ -65,6 +66,35 @@ print(arr)
 # print(text[103:222])
 #print(copy)
 # print(ftext)
+
+print('-----------')
+before = 0
+start, end = 0, 0
+mark = []
+for cp in arr:
+    if before + 1== cp:
+        print(True)
+        end = cp
+    else:
+        print(False)
+        mark.append([start, end])
+        start = cp
+    before = cp
+mark.append([start,end])
+print(mark)
+
+str = []
+for d in mark:
+    if d[0] == 0 and d[1] == 0:
+        continue
+    # print(d[0], 'd0' , d[1], 'd')
+    str.append(text[places[d[0]]:places[d[1] + 3]])
+print(str)
+
+
+
+
+
 
 if __name__ == '__main__':
     a = 0
