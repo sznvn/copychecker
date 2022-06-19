@@ -13,8 +13,8 @@ ftext, places = processor.format(text)
 
 shingles = processor.shingler(ftext)
 # print(text)
-print(ftext)
-print(places)
+# print(ftext)
+# print(places)
 # print(len(places)==len(ftext))
 # print(shingles)
 
@@ -36,7 +36,7 @@ for key, value in shingles.items():
     before = value
 
 
-print(copy)
+# print(copy)
 
 d = []
 length = 0
@@ -46,7 +46,7 @@ arr = []
 for i in range(len(copy)):
     p = places.index(copy[i])
     arr.append(p)
-print(arr)
+# print(arr)
 
 #     # print(p)
 #     # print(p - 1, '---', last)
@@ -67,21 +67,21 @@ print(arr)
 #print(copy)
 # print(ftext)
 
-print('-----------')
+# print('-----------')
 before = 0
 start, end = 0, 0
 mark = []
 for cp in arr:
     if before + 1== cp:
-        print(True)
+        # print(True)
         end = cp
     else:
-        print(False)
+        # print(False)
         mark.append([start, end])
         start = cp
     before = cp
 mark.append([start,end])
-print(mark)
+# print(mark)
 
 str = []
 for d in mark:
