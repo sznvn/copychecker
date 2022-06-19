@@ -44,6 +44,7 @@ def shingler(array):
         for i in range(-half, half + 1):
             shingle.append(array[word + i])
             unit += array[word + i]
+        # print({hashstore(unit): shingle})
         keval.update({hashstore(unit): shingle})
 
     return keval

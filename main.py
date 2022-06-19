@@ -13,8 +13,8 @@ ftext, places = processor.format(text)
 
 shingles = processor.shingler(ftext)
 # print(text)
-# print(ftext)
-# print(places)
+print(ftext)
+print(places)
 # print(len(places)==len(ftext))
 # print(shingles)
 
@@ -28,7 +28,7 @@ for key, value in shingles.items():
     find = comparator.comparator(key, before)
     if find != None:
         a = 0
-        print(find)
+        # print(find)
         copy.append(places[i])
         # print(text[places[less]:places[less+1]])
         # print(text[places[less]:places[less+10]])
@@ -37,25 +37,29 @@ for key, value in shingles.items():
 
 
 print(copy)
+
 d = []
 length = 0
 last = 0
 s = ''
+arr = []
 for i in range(len(copy)):
     p = places.index(copy[i])
-    print(p)
-    #print(p - 1, '---', last)
-    if p - 1 == last:
-        s += text[places[p]:places[p + 1]]
-        print(s)
-    else:
-        d.append(s)
-        s = ''
-    last = p
+    arr.append(p)
+print(arr)
+#     # print(p)
+#     # print(p - 1, '---', last)
+#     if p - 1 == last:
+#         s += text[places[p]:places[p + 1]]
+#         print(s)
+#     else:
+#         d.append(s)
+#         s = ''
+#     last = p
+# d.append(s)
+# print(d)
 
-print(d)
-
-
+# print(text[446:476])
 # db.updateDB(ftext)
 # print('--------------------', value)
 # print(text[103:222])
@@ -63,5 +67,8 @@ print(d)
 # print(ftext)
 
 if __name__ == '__main__':
-    print(int(7/6))
+    a = 0
+    # print(int(7/6))
+
+# input('Press key')
 
