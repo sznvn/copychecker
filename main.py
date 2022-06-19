@@ -12,11 +12,14 @@ text = exctractor.extract(path)
 ftext, places = processor.format(text)
 
 shingles = processor.shingler(ftext)
+
+###################################
 # print(text)
 # print(ftext)
 # print(places)
 # print(len(places)==len(ftext))
 # print(shingles)
+#################################
 
 before = []
 i = 0
@@ -89,12 +92,14 @@ for d in mark:
         continue
     # print(d[0], 'd0' , d[1], 'd')
     str.append(text[places[d[0]]:places[d[1] + 3]])
-print(str)
+
+for s in str:
+    print('-------------------------------------------------------------')
+    print(s)
 
 
 
-
-
+# db.updateDB(ftext)
 
 if __name__ == '__main__':
     a = 0

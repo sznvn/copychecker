@@ -1,2 +1,2 @@
-path = '/root/Desktop/sample.txt'
-width = 3
+path = '/root/Desktop/sazonov.docx'
+width = 5
