@@ -1,2 +1,2 @@
-path = '/root/Desktop/beta.docx'
+path = '/root/Desktop/sample.txt'
 width = 3

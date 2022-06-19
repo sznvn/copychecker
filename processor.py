@@ -29,30 +29,21 @@ def format(text):
     for i in range(len(words)-1):
         if words[i+1] != '`' and words[i]=='`':
             place.append(i)
-    words = list(filter(None, words.split('`')))
+    words = list(filter(None, words.lower().split('`')))
     return words, place
 
 # Это нужно оптимизировать
 def shingler(array):
-    print(len(array))
+    # print(len(array))
     half = int(width / 2)
-    old = []
     keval = {}
+    val = []
     for word in range(half, len(array) - half):
         shingle = []
+        unit = ''
         for i in range(-half, half + 1):
             shingle.append(array[word + i])
+            unit += array[word + i]
+        keval.update({hashstore(unit): shingle})
 
-        permutated = list(permutations(shingle))
-        for i in range(len(permutated)):
-            unit = ''
-
-            ###################
-            for place in permutated[i]:
-                unit += place
-            #con.set(hashstore(unit), str(shingle))
-            # keval.update({hashstore(unit): shingle + [word]})
-            keval.update({hashstore(unit): shingle})
-            # comparator(hashstore(unit), old)
-            old = shingle
     return keval
