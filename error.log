@@ -1,0 +1,177 @@
+[Thu Jun 16 17:07:09.739764 2022] [php7:error] [pid 771545] [client 172.20.0.67:1102] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:31.728472 2022] [php7:error] [pid 771549] [client 172.20.0.67:1113] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:34.121992 2022] [php7:error] [pid 771546] [client 172.20.0.67:1114] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:34.565258 2022] [php7:error] [pid 771548] [client 172.20.0.67:1115] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:34.847721 2022] [php7:error] [pid 771547] [client 172.20.0.67:1116] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:35.093254 2022] [php7:error] [pid 771859] [client 172.20.0.67:1117] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:35.799888 2022] [php7:error] [pid 771545] [client 172.20.0.67:1118] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 17:07:36.131297 2022] [php7:error] [pid 771549] [client 172.20.0.67:1122] script '/var/www/antiplagiat/index.php' not found or unable to stat, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:10:34.541590 2022] [authz_core:debug] [pid 777310] mod_authz_core.c(817): [client 172.20.0.67:1308] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:10:34.541686 2022] [authz_core:debug] [pid 777310] mod_authz_core.c(817): [client 172.20.0.67:1308] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:10:34.544358 2022] [deflate:debug] [pid 777310] mod_deflate.c(854): [client 172.20.0.67:1308] AH01384: Zlib: Compressed 476 to 294 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:11:41.474702 2022] [authz_core:debug] [pid 777311] mod_authz_core.c(817): [client 172.20.0.67:1327] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:11:41.474782 2022] [authz_core:debug] [pid 777311] mod_authz_core.c(817): [client 172.20.0.67:1327] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:11:41.476139 2022] [deflate:debug] [pid 777311] mod_deflate.c(854): [client 172.20.0.67:1327] AH01384: Zlib: Compressed 476 to 296 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:11:44.758972 2022] [authz_core:debug] [pid 777311] mod_authz_core.c(817): [client 172.20.0.67:1327] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:11:44.759003 2022] [authz_core:debug] [pid 777311] mod_authz_core.c(817): [client 172.20.0.67:1327] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:11:44.759339 2022] [deflate:debug] [pid 777311] mod_deflate.c(854): [client 172.20.0.67:1327] AH01384: Zlib: Compressed 476 to 295 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:12:45.208821 2022] [authz_core:debug] [pid 777313] mod_authz_core.c(817): [client 172.20.0.67:27781] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:12:45.209007 2022] [authz_core:debug] [pid 777313] mod_authz_core.c(817): [client 172.20.0.67:27781] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:12:45.266179 2022] [deflate:debug] [pid 777313] mod_deflate.c(854): [client 172.20.0.67:27781] AH01384: Zlib: Compressed 89921 to 24385 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:18:14.113859 2022] [authz_core:debug] [pid 777312] mod_authz_core.c(817): [client 172.20.0.67:17850] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:18:14.113996 2022] [authz_core:debug] [pid 777312] mod_authz_core.c(817): [client 172.20.0.67:17850] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:18:14.117295 2022] [deflate:debug] [pid 777312] mod_deflate.c(854): [client 172.20.0.67:17850] AH01384: Zlib: Compressed 383 to 242 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:13.016578 2022] [authz_core:debug] [pid 777314] mod_authz_core.c(817): [client 172.20.0.67:17858] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:13.016673 2022] [authz_core:debug] [pid 777314] mod_authz_core.c(817): [client 172.20.0.67:17858] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:13.019226 2022] [deflate:debug] [pid 777314] mod_deflate.c(854): [client 172.20.0.67:17858] AH01384: Zlib: Compressed 383 to 242 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:31.218388 2022] [authz_core:debug] [pid 777321] mod_authz_core.c(817): [client 172.20.0.67:17861] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:31.218501 2022] [authz_core:debug] [pid 777321] mod_authz_core.c(817): [client 172.20.0.67:17861] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:31.221610 2022] [deflate:debug] [pid 777321] mod_deflate.c(854): [client 172.20.0.67:17861] AH01384: Zlib: Compressed 381 to 243 : URL /upload.php, referer: http://polygon.comptek.ru/index.php
+[Thu Jun 16 18:19:31.318459 2022] [authz_core:debug] [pid 777321] mod_authz_core.c(817): [client 172.20.0.67:17861] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Thu Jun 16 18:19:31.318500 2022] [authz_core:debug] [pid 777321] mod_authz_core.c(817): [client 172.20.0.67:17861] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Thu Jun 16 18:19:31.318594 2022] [core:info] [pid 777321] [client 172.20.0.67:17861] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Thu Jun 16 18:35:53.194078 2022] [authz_core:debug] [pid 777310] mod_authz_core.c(817): [client 172.20.0.21:45668] AH01626: authorization result of Require all granted: granted
+[Thu Jun 16 18:35:53.194293 2022] [authz_core:debug] [pid 777310] mod_authz_core.c(817): [client 172.20.0.21:45668] AH01626: authorization result of <RequireAny>: granted
+[Thu Jun 16 18:35:53.194563 2022] [authz_core:debug] [pid 777310] mod_authz_core.c(817): [client 172.20.0.21:45668] AH01626: authorization result of Require all granted: granted
+[Thu Jun 16 18:35:53.194576 2022] [authz_core:debug] [pid 777310] mod_authz_core.c(817): [client 172.20.0.21:45668] AH01626: authorization result of <RequireAny>: granted
+[Thu Jun 16 18:35:53.196795 2022] [deflate:debug] [pid 777310] mod_deflate.c(854): [client 172.20.0.21:45668] AH01384: Zlib: Compressed 358 to 262 : URL /index.php
+[Thu Jun 16 18:35:58.405994 2022] [authz_core:debug] [pid 777311] mod_authz_core.c(817): [client 172.20.0.21:53972] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:35:58.406093 2022] [authz_core:debug] [pid 777311] mod_authz_core.c(817): [client 172.20.0.21:53972] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:35:58.408736 2022] [deflate:debug] [pid 777311] mod_deflate.c(854): [client 172.20.0.21:53972] AH01384: Zlib: Compressed 807 to 320 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:36:56.963661 2022] [authz_core:debug] [pid 777313] mod_authz_core.c(817): [client 172.20.0.21:58372] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:36:56.963727 2022] [authz_core:debug] [pid 777313] mod_authz_core.c(817): [client 172.20.0.21:58372] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:36:56.965483 2022] [deflate:debug] [pid 777313] mod_deflate.c(854): [client 172.20.0.21:58372] AH01384: Zlib: Compressed 331 to 187 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:36:57.065484 2022] [authz_core:debug] [pid 777313] mod_authz_core.c(817): [client 172.20.0.21:58372] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Thu Jun 16 18:36:57.065537 2022] [authz_core:debug] [pid 777313] mod_authz_core.c(817): [client 172.20.0.21:58372] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Thu Jun 16 18:36:57.065609 2022] [core:info] [pid 777313] [client 172.20.0.21:58372] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Thu Jun 16 18:37:14.897586 2022] [authz_core:debug] [pid 777312] mod_authz_core.c(817): [client 172.20.0.21:56952] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:37:14.897652 2022] [authz_core:debug] [pid 777312] mod_authz_core.c(817): [client 172.20.0.21:56952] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:37:14.899193 2022] [deflate:debug] [pid 777312] mod_deflate.c(854): [client 172.20.0.21:56952] AH01384: Zlib: Compressed 212 to 111 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:37:45.412822 2022] [authz_core:debug] [pid 777314] mod_authz_core.c(817): [client 172.20.0.21:36428] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:37:45.412989 2022] [authz_core:debug] [pid 777314] mod_authz_core.c(817): [client 172.20.0.21:36428] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Thu Jun 16 18:37:45.414369 2022] [deflate:debug] [pid 777314] mod_deflate.c(854): [client 172.20.0.21:36428] AH01384: Zlib: Compressed 206 to 103 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Fri Jun 17 11:41:03.699493 2022] [authz_core:debug] [pid 803415] mod_authz_core.c(817): [client 172.20.0.21:44038] AH01626: authorization result of Require all granted: granted
+[Fri Jun 17 11:41:03.699726 2022] [authz_core:debug] [pid 803415] mod_authz_core.c(817): [client 172.20.0.21:44038] AH01626: authorization result of <RequireAny>: granted
+[Fri Jun 17 11:41:03.699871 2022] [authz_core:debug] [pid 803415] mod_authz_core.c(817): [client 172.20.0.21:44038] AH01626: authorization result of Require all granted: granted
+[Fri Jun 17 11:41:03.699882 2022] [authz_core:debug] [pid 803415] mod_authz_core.c(817): [client 172.20.0.21:44038] AH01626: authorization result of <RequireAny>: granted
+[Fri Jun 17 11:41:03.703529 2022] [deflate:debug] [pid 803415] mod_deflate.c(854): [client 172.20.0.21:44038] AH01384: Zlib: Compressed 358 to 262 : URL /index.php
+[Mon Jun 20 16:00:46.481840 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:39860] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:00:46.481966 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:39860] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:00:46.482124 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:39860] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:00:46.482135 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:39860] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:00:46.486177 2022] [deflate:debug] [pid 1126831] mod_deflate.c(854): [client 172.20.0.21:39860] AH01384: Zlib: Compressed 358 to 262 : URL /index.php
+[Mon Jun 20 16:00:46.691924 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:39860] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:00:46.691959 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:39860] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:00:46.692051 2022] [core:info] [pid 1126831] [client 172.20.0.21:39860] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:08:18.206387 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45966] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:08:18.206508 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45966] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:08:18.212046 2022] [deflate:debug] [pid 1126833] mod_deflate.c(854): [client 172.20.0.21:45966] AH01384: Zlib: Compressed 206 to 102 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:08:18.307629 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45966] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:08:18.307663 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45966] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:08:18.307751 2022] [core:info] [pid 1126833] [client 172.20.0.21:45966] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:10:01.148688 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:49910] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:10:01.148838 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:49910] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:10:01.180689 2022] [deflate:debug] [pid 1126834] mod_deflate.c(854): [client 172.20.0.21:49910] AH01384: Zlib: Compressed 238 to 134 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:11:14.959683 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42518] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:11:14.959802 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42518] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:11:14.959901 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42518] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:11:14.959912 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42518] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:11:14.962030 2022] [deflate:debug] [pid 1126832] mod_deflate.c(854): [client 172.20.0.21:42518] AH01384: Zlib: Compressed 365 to 266 : URL /index.php
+[Mon Jun 20 16:12:45.614005 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:34144] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:12:45.614286 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:34144] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:12:45.614410 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:34144] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:12:45.614420 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:34144] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:12:45.617037 2022] [deflate:debug] [pid 1126830] mod_deflate.c(854): [client 172.20.0.21:34144] AH01384: Zlib: Compressed 419 to 301 : URL /index.php
+[Mon Jun 20 16:13:16.905573 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:56584] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:16.905651 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:56584] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:16.905691 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:56584] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:16.905700 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:56584] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:16.906635 2022] [deflate:debug] [pid 1126831] mod_deflate.c(854): [client 172.20.0.21:56584] AH01384: Zlib: Compressed 428 to 308 : URL /index.php
+[Mon Jun 20 16:13:49.062143 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:49.062272 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:49.062341 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:49.062350 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:49.063328 2022] [deflate:debug] [pid 1126833] mod_deflate.c(854): [client 172.20.0.21:36898] AH01384: Zlib: Compressed 428 to 308 : URL /index.php
+[Mon Jun 20 16:13:49.869210 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:49.869242 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:49.869284 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:49.869292 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:49.869626 2022] [deflate:debug] [pid 1126833] mod_deflate.c(854): [client 172.20.0.21:36898] AH01384: Zlib: Compressed 428 to 308 : URL /index.php
+[Mon Jun 20 16:13:51.555456 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:51.555504 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:51.555545 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:13:51.555554 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:36898] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:13:51.555879 2022] [deflate:debug] [pid 1126833] mod_deflate.c(854): [client 172.20.0.21:36898] AH01384: Zlib: Compressed 428 to 308 : URL /index.php
+[Mon Jun 20 16:14:04.551196 2022] [authz_core:debug] [pid 1199493] mod_authz_core.c(817): [client 172.20.0.21:38636] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:04.551301 2022] [authz_core:debug] [pid 1199493] mod_authz_core.c(817): [client 172.20.0.21:38636] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:04.551417 2022] [authz_core:debug] [pid 1199493] mod_authz_core.c(817): [client 172.20.0.21:38636] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:04.551426 2022] [authz_core:debug] [pid 1199493] mod_authz_core.c(817): [client 172.20.0.21:38636] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:04.553471 2022] [deflate:debug] [pid 1199493] mod_deflate.c(854): [client 172.20.0.21:38636] AH01384: Zlib: Compressed 435 to 309 : URL /index.php
+[Mon Jun 20 16:14:30.453516 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:52004] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:30.453599 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:52004] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:30.453687 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:52004] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:30.453697 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:52004] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:30.454641 2022] [deflate:debug] [pid 1126834] mod_deflate.c(854): [client 172.20.0.21:52004] AH01384: Zlib: Compressed 443 to 311 : URL /index.php
+[Mon Jun 20 16:14:30.523490 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:52004] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:14:30.523529 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:52004] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:14:30.523692 2022] [core:info] [pid 1126834] [client 172.20.0.21:52004] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:14:54.436904 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:54.437047 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:54.437094 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:54.437103 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:54.437835 2022] [deflate:debug] [pid 1126832] mod_deflate.c(854): [client 172.20.0.21:42662] AH01384: Zlib: Compressed 456 to 317 : URL /index.php
+[Mon Jun 20 16:14:55.228817 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:55.228870 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:55.228914 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:14:55.228964 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:42662] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:14:55.229234 2022] [deflate:debug] [pid 1126832] mod_deflate.c(854): [client 172.20.0.21:42662] AH01384: Zlib: Compressed 456 to 317 : URL /index.php
+[Mon Jun 20 16:29:05.318953 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:56844] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:29:05.319064 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:56844] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:29:05.351333 2022] [deflate:debug] [pid 1126830] mod_deflate.c(854): [client 172.20.0.21:56844] AH01384: Zlib: Compressed 304 to 182 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:29:05.450035 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:56844] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:29:05.450069 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:56844] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:29:05.450208 2022] [core:info] [pid 1126830] [client 172.20.0.21:56844] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:50:31.681599 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:35990] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:50:31.681700 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:35990] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:50:31.719579 2022] [deflate:debug] [pid 1126831] mod_deflate.c(854): [client 172.20.0.21:35990] AH01384: Zlib: Compressed 214 to 116 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:50:31.889843 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:35990] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:50:31.889875 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:35990] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:50:31.889971 2022] [core:info] [pid 1126831] [client 172.20.0.21:35990] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 16:51:04.310817 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:39776] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:51:04.310899 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:39776] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:51:04.349852 2022] [deflate:debug] [pid 1126833] mod_deflate.c(854): [client 172.20.0.21:39776] AH01384: Zlib: Compressed 214 to 116 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:21.015563 2022] [authz_core:debug] [pid 1199493] mod_authz_core.c(817): [client 172.20.0.21:58824] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:21.015683 2022] [authz_core:debug] [pid 1199493] mod_authz_core.c(817): [client 172.20.0.21:58824] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:21.053538 2022] [deflate:debug] [pid 1199493] mod_deflate.c(854): [client 172.20.0.21:58824] AH01384: Zlib: Compressed 214 to 116 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:29.485840 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:54484] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:29.485946 2022] [authz_core:debug] [pid 1126834] mod_authz_core.c(817): [client 172.20.0.21:54484] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:29.521891 2022] [deflate:debug] [pid 1126834] mod_deflate.c(854): [client 172.20.0.21:54484] AH01384: Zlib: Compressed 214 to 116 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:59.253785 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:52:59.253840 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:52:59.253869 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of Require all granted: granted
+[Mon Jun 20 16:52:59.253873 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of <RequireAny>: granted
+[Mon Jun 20 16:52:59.254426 2022] [deflate:debug] [pid 1126832] mod_deflate.c(854): [client 172.20.0.21:46282] AH01384: Zlib: Compressed 445 to 311 : URL /index.php
+[Mon Jun 20 16:52:59.404980 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:59.405021 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:52:59.405112 2022] [core:info] [pid 1126832] [client 172.20.0.21:46282] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:53:02.736649 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:53:02.736778 2022] [authz_core:debug] [pid 1126832] mod_authz_core.c(817): [client 172.20.0.21:46282] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 16:53:02.773846 2022] [deflate:debug] [pid 1126832] mod_deflate.c(854): [client 172.20.0.21:46282] AH01384: Zlib: Compressed 247 to 144 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:03:17.809328 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:53280] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:03:17.809404 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:53280] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:03:18.075871 2022] [deflate:debug] [pid 1126830] mod_deflate.c(854): [client 172.20.0.21:53280] AH01384: Zlib: Compressed 1254 to 500 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:03:18.182897 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:53280] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:03:18.182933 2022] [authz_core:debug] [pid 1126830] mod_authz_core.c(817): [client 172.20.0.21:53280] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:03:18.182997 2022] [core:info] [pid 1126830] [client 172.20.0.21:53280] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:13:53.362160 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:58498] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:13:53.362276 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:58498] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:13:53.627524 2022] [deflate:debug] [pid 1126831] mod_deflate.c(854): [client 172.20.0.21:58498] AH01384: Zlib: Compressed 1074 to 488 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:13:53.732723 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:58498] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:13:53.732784 2022] [authz_core:debug] [pid 1126831] mod_authz_core.c(817): [client 172.20.0.21:58498] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:13:53.732958 2022] [core:info] [pid 1126831] [client 172.20.0.21:58498] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:14:26.012315 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45260] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:14:26.012414 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45260] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:14:26.272143 2022] [deflate:debug] [pid 1126833] mod_deflate.c(854): [client 172.20.0.21:45260] AH01384: Zlib: Compressed 1083 to 497 : URL /upload.php, referer: http://polygon.comptek.ru/
+[Mon Jun 20 17:14:26.386691 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45260] AH01626: authorization result of Require all granted: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:14:26.386753 2022] [authz_core:debug] [pid 1126833] mod_authz_core.c(817): [client 172.20.0.21:45260] AH01626: authorization result of <RequireAny>: granted, referer: http://polygon.comptek.ru/upload.php
+[Mon Jun 20 17:14:26.386800 2022] [core:info] [pid 1126833] [client 172.20.0.21:45260] AH00128: File does not exist: /var/www/antiplagiat/favicon.ico, referer: http://polygon.comptek.ru/upload.php
