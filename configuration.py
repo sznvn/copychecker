@@ -1,2 +1,2 @@
-path = '/root/Desktop/sazonov.docx'
-width = 5
+path = '/var/www/antiplagiat/upload/kak.docx'
+width = 3
