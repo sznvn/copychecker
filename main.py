@@ -2,7 +2,7 @@
 import exctractor
 import processor
 import comparator
-
+import sys
 ########VARIABLES##########
 path = sys.argv[1]
 text = exctractor.extract(path) + 100 * ' '

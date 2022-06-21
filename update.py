@@ -2,11 +2,10 @@
 import exctractor
 import processor
 import db
-from configuration import path
-
+import sys
 ########VARIABLES##########
-
-text = exctractor.extract(path) + 100 * ' '
+path = sys.argv[1]
+text = exctractor.extract(path)
 ftext, places = processor.format(text)
 shingles = processor.shingler(ftext)
 db.updateDB(ftext)
